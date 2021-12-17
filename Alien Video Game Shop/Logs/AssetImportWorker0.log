@@ -220,3 +220,20 @@ Received Import Request.
 Start importing Assets/Scenes/SampleSceneLightingSettings.lighting using Guid(477cc4148fad3449482a3bc3178594e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a26a52e718306fba651ad1c5ff177c0') in 0.017061 seconds 
   Import took 0.020966 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 6590.447329 seconds.
+  path: Assets/GuidedProject/AlienVideoGameShop
+  artifactKey: Guid(85e528e19774dae499eff2b9d0e726a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuidedProject/AlienVideoGameShop using Guid(85e528e19774dae499eff2b9d0e726a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0f54d2bc9edfeaa0de4c1b377d134d') in 0.011557 seconds 
+  Import took 0.077518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.474132 seconds.
+  path: Assets/GuidedProject/AlienVideoGameShop/Prefabs
+  artifactKey: Guid(090bb469ad6de4443b90e122d06978c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuidedProject/AlienVideoGameShop/Prefabs using Guid(090bb469ad6de4443b90e122d06978c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3fc2542e55d01d9a11edcb79455e0b') in 0.012084 seconds 
+  Import took 0.019426 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
